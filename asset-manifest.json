@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d6bbe402.chunk.css",
+    "main.js": "./static/js/main.a321f3ae.chunk.js",
+    "main.js.map": "./static/js/main.a321f3ae.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.56f6014a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.56f6014a.js.map",
+    "static/css/2.a6b8c072.chunk.css": "./static/css/2.a6b8c072.chunk.css",
+    "static/js/2.4a6d2afd.chunk.js": "./static/js/2.4a6d2afd.chunk.js",
+    "static/js/2.4a6d2afd.chunk.js.map": "./static/js/2.4a6d2afd.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.a6b8c072.chunk.css.map": "./static/css/2.a6b8c072.chunk.css.map",
+    "static/css/main.d6bbe402.chunk.css.map": "./static/css/main.d6bbe402.chunk.css.map",
+    "static/js/2.4a6d2afd.chunk.js.LICENSE.txt": "./static/js/2.4a6d2afd.chunk.js.LICENSE.txt",
+    "static/media/text-select.css": "./static/media/chevron-down.637c1521.svg",
+    "static/media/getFetch.cjs": "./static/media/getFetch.d7d6010d.cjs",
+    "static/media/passage-map.css": "./static/media/graph-paper-light.14914806.svg",
+    "static/media/typography.css": "./static/media/nunito-light.84c6863c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f6014a.js",
+    "static/css/2.a6b8c072.chunk.css",
+    "static/js/2.4a6d2afd.chunk.js",
+    "static/css/main.d6bbe402.chunk.css",
+    "static/js/main.a321f3ae.chunk.js"
+  ]
+}
