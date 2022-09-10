@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://tlodge.github.io/reactstory/build/static/css/main.cac87a08.css",
-    "main.js": "https://tlodge.github.io/reactstory/build/static/js/main.6c029d75.js",
+    "main.js": "https://tlodge.github.io/reactstory/build/static/js/main.06dc9129.js",
     "index.html": "https://tlodge.github.io/reactstory/build/index.html",
     "main.cac87a08.css.map": "https://tlodge.github.io/reactstory/build/static/css/main.cac87a08.css.map",
-    "main.6c029d75.js.map": "https://tlodge.github.io/reactstory/build/static/js/main.6c029d75.js.map"
+    "main.06dc9129.js.map": "https://tlodge.github.io/reactstory/build/static/js/main.06dc9129.js.map"
   },
   "entrypoints": [
     "static/css/main.cac87a08.css",
-    "static/js/main.6c029d75.js"
+    "static/js/main.06dc9129.js"
   ]
 }
