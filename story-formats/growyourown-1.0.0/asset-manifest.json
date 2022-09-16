@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/css/main.a9209fca.css",
-    "main.js": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/js/main.505eec07.js",
+    "main.js": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/js/main.5b5a12c0.js",
     "index.html": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/index.html",
     "main.a9209fca.css.map": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/css/main.a9209fca.css.map",
-    "main.505eec07.js.map": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/js/main.505eec07.js.map"
+    "main.5b5a12c0.js.map": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/js/main.5b5a12c0.js.map"
   },
   "entrypoints": [
     "static/css/main.a9209fca.css",
-    "static/js/main.505eec07.js"
+    "static/js/main.5b5a12c0.js"
   ]
 }
