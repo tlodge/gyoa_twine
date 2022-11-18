@@ -1,0 +1,7 @@
+{
+  "name": "growyourown",
+  "version": "1.0.0",
+  "image": "icon.svg",
+  "source": "https://github.com/tlodge/storyweb",
+  "description": "This story format will let you record a script for your Twine passages.  You will then be able to play it back and listen for key words to trigger branching.  The keywords that are supported are the numbers one to nine, 'yes', 'no', 'right', 'left', 'up', 'down', 'stop', 'go'"
+}

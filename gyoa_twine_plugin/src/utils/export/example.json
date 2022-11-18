@@ -1,0 +1,19 @@
+{
+    "files" : [ 
+        {
+            "id": "wordsone",
+            "url": "3786agufafb"
+        }
+    ],
+    "script": [
+        {
+            "id": "id1",
+            "words": "wordsone",
+            "keywords" : ["keywordone", "keywordstwo"],
+            "rules" : { 
+                "keywordone" : "id2",
+                "keywordtwo" : "id3"
+            }
+        }
+    ]
+}
