@@ -479,7 +479,6 @@ function App() {
       {renderToolbar()}
       
       <div className="App">
-        <h1>{process.env.APP_URL}</h1>
         {showRecorder && renderRecorder()}
         {!showRecorder && renderScript()}
       </div>
