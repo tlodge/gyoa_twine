@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/css/main.a9209fca.css",
-    "main.js": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/js/main.d546c7ee.js",
-    "index.html": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/index.html",
-    "main.a9209fca.css.map": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/css/main.a9209fca.css.map",
-    "main.d546c7ee.js.map": "https://tlodge.github.io/storyweb/story-formats/growyourown-1.0.0/static/js/main.d546c7ee.js.map"
+    "main.css": "https://tlodge.github.io/gyoa_twine/story-formats/growyourown-1.0.0/static/css/main.a9209fca.css",
+    "main.js": "https://tlodge.github.io/gyoa_twine/story-formats/growyourown-1.0.0/static/js/main.cab360da.js",
+    "index.html": "https://tlodge.github.io/gyoa_twine/story-formats/growyourown-1.0.0/index.html",
+    "main.a9209fca.css.map": "https://tlodge.github.io/gyoa_twine/story-formats/growyourown-1.0.0/static/css/main.a9209fca.css.map",
+    "main.cab360da.js.map": "https://tlodge.github.io/gyoa_twine/story-formats/growyourown-1.0.0/static/js/main.cab360da.js.map"
   },
   "entrypoints": [
     "static/css/main.a9209fca.css",
-    "static/js/main.d546c7ee.js"
+    "static/js/main.cab360da.js"
   ]
 }
